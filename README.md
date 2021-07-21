@@ -1,7 +1,7 @@
 # Hello, I'm Luke!
 I am a Tensorflow Core team member working on Keras.
 
-In addition to my own projects, I've contributed to the following open source projects:
+I've contributed to the following open source projects:
 - [keras-team/keras](https://github.com/keras-team/keras)
 - [tensorflow/neural-structured-learning](https://github.com/tensorflow/neural-structured-learning)
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
