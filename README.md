@@ -1,13 +1,6 @@
 # Hello, I'm Luke!
 I am a Tensorflow Core team member working on Keras.
 
-<a href="https://www.linkedin.com/in/luke-wood-886634102/" title="Linkedin"><img src="https://haifengjin.com/img/linkedin.svg" width="20"></a>
-&nbsp; &nbsp;
-<a href="https://scholar.google.com/citations?user=Nkq80jgAAAAJ&hl=en" title="Google Scholar"><img src="https://haifengjin.com/img/scholar.svg" width="20"></a>
-&nbsp; &nbsp;
-<a href="https://twitter.com/puppet_pals1" title="Twitter"><img src="https://haifengjin.com/img/twitter.svg" width="20"></a>
-&nbsp; &nbsp;
-
 In addition to my own projects, I've contributed to the following open source projects:
 - [keras-team/keras](https://github.com/keras-team/keras)
 - [tensorflow/neural-structured-learning](https://github.com/tensorflow/neural-structured-learning)
