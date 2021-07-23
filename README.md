@@ -1,5 +1,4 @@
 # Hello, I'm Luke!
-I am a Tensorflow Core team member working on Keras and Machine Learning researcher at Google.  I am also working on the coursework portion of my Ph.D at UCSD.
 
 I've contributed to the following open source projects:
 
