@@ -4,7 +4,7 @@ I am a [Keras](https://github.com/keras-team/keras) team member, machine learnin
 
 My current focuses are:
 - [KerasCV](https://github.com/keras-team/keras-cv), a set of computer vision extensions for Keras
-- a research project focused on robust image represenetation (paper coming soon...)
+- a research project focused on robust image represenetation (paper coming soon)
 - coursework at UCSD
 - implementing and reviewing [keras.io](https://keras.io) examples
 - publishing useful ML content on [lukewood.xyz](https://lukewood.xyz)
