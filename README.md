@@ -7,7 +7,7 @@
 <a href="https://twitter.com/puppet_pals1" title="Twitter"><img src="https://lukewood.xyz/twitter.svg" width="30"></a>
 &nbsp; &nbsp;
 
-I am a [Keras](https://github.com/keras-team/keras) team member, machine learning researcher working on [neural-structured-learning](https://github.com/tensorflow/neural-structured-learning) and machine learning Ph.D candidate in UCSD's [NoiseLab](http://noiselab.ucsd.edu/).  My primary focus area is Computer Vision.  
+I am a [Keras](https://github.com/keras-team/keras) team member, machine learning researcher working on [neural-structured-learning](https://github.com/tensorflow/neural-structured-learning) and machine learning Ph.D candidate in UCSD's [NoiseLab](http://noiselab.ucsd.edu/).  My work revolves around the Open Source community, Computer Vision, and bringing effective software engineering practices to ML.
 
 My current focuses are:
 - [KerasCV](https://github.com/keras-team/keras-cv), a set of computer vision extensions for Keras
