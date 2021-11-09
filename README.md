@@ -1,10 +1,10 @@
 # Hello, I'm Luke!
 
-<a href="https://www.linkedin.com/in/luke-wood-886634102/" title="Linkedin"><img src="https://haifengjin.com/img/linkedin.svg" width="30"></a>
+<a href="https://www.linkedin.com/in/luke-wood-886634102/" title="Linkedin"><img src="https://lukewood.xyz/img/linkedin.svg" width="30"></a>
 &nbsp; &nbsp;
-<a href="https://scholar.google.com/citations?user=Nkq80jgAAAAJ&hl=en&authuser=1" title="Google Scholar"><img src="https://haifengjin.com/img/scholar.svg" width="30"></a>
+<a href="https://scholar.google.com/citations?user=Nkq80jgAAAAJ&hl=en&authuser=1" title="Google Scholar"><img src="https://lukewood.xyz/img/scholar.svg" width="30"></a>
 &nbsp; &nbsp;
-<a href="https://twitter.com/puppet_pals1" title="Twitter"><img src="https://haifengjin.com/img/twitter.svg" width="30"></a>
+<a href="https://twitter.com/puppet_pals1" title="Twitter"><img src="https://lukewood.xyz/img/twitter.svg" width="30"></a>
 &nbsp; &nbsp;
 
 I am a [Keras](https://github.com/keras-team/keras) team member, machine learning researcher working on [neural-structured-learning](https://github.com/tensorflow/neural-structured-learning) and machine learning Ph.D candidate in UCSD's [NoiseLab](http://noiselab.ucsd.edu/).  My primary focus area is Computer Vision.  
