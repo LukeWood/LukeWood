@@ -8,6 +8,7 @@ My current focuses are:
 - coursework at UCSD
 - implementing and reviewing [keras.io](https://keras.io) examples
 - publishing useful ML content on [lukewood.xyz](https://lukewood.xyz)
+- eventually making time to finish [WizardWars.online](https://wizardwars.online)
 
 My other passions include reinforcement learning, open source, surfing, and diving.
 
