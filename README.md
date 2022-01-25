@@ -1,6 +1,6 @@
 Luke Wood
 ---
-https://lukewood.xyz
+[Homepage](https://lukewood.xyz)
 ---
 
 <a href="https://www.linkedin.com/in/luke-wood-886634102/" title="Linkedin"><img src="https://lukewood.xyz/linkedin.svg" width="30"></a>
