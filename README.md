@@ -3,7 +3,7 @@ Luke Wood
 [Homepage](https://lukewood.xyz)
 ---
 
-Currently on a leave of grad school working at an undisclosed financial firm on ML problems.
+Currently on a leave of grad school working at a financial firm.
 
 ---
 
